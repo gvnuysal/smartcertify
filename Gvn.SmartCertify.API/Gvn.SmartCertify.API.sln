@@ -5,11 +5,11 @@ VisualStudioVersion = 17.14.36109.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gvn.SmartCertify.API", "Gvn.SmartCertify.API.csproj", "{4F1EEF29-998D-4A0A-8E18-7E3D76DB9ED5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gvn.SmartCertify.Domain", "..\LSC.SmartCertify.Domain\Gvn.SmartCertify.Domain.csproj", "{430982EB-3640-4D1B-9F80-1F47898E6040}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gvn.SmartCertify.Domain", "..\Gvn.SmartCertify.Domain\Gvn.SmartCertify.Domain.csproj", "{430982EB-3640-4D1B-9F80-1F47898E6040}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gvn.SmartCertify.Application", "..\LSC.SmartCertify.Application\Gvn.SmartCertify.Application.csproj", "{5719A85B-5A6E-4364-BD17-6DC8B77A4281}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gvn.SmartCertify.Application", "..\Gvn.SmartCertify.Application\Gvn.SmartCertify.Application.csproj", "{5719A85B-5A6E-4364-BD17-6DC8B77A4281}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gvn.SmartCertify.Infrastructure", "..\LSC.SmartCertify.Infrastructure\Gvn.SmartCertify.Infrastructure.csproj", "{74EC581C-8213-409C-8290-C375C422E796}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gvn.SmartCertify.Infrastructure", "..\Gvn.SmartCertify.Infrastructure\Gvn.SmartCertify.Infrastructure.csproj", "{74EC581C-8213-409C-8290-C375C422E796}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

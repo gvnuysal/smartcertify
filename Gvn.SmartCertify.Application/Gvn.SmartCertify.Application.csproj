@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\LSC.SmartCertify.Domain\Gvn.SmartCertify.Domain.csproj" />
+    <ProjectReference Include="..\Gvn.SmartCertify.Domain\Gvn.SmartCertify.Domain.csproj" />
   </ItemGroup>
 
 </Project>

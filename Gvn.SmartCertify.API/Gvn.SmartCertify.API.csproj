@@ -12,9 +12,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\LSC.SmartCertify.Application\Gvn.SmartCertify.Application.csproj" />
-    <ProjectReference Include="..\LSC.SmartCertify.Domain\Gvn.SmartCertify.Domain.csproj" />
-    <ProjectReference Include="..\LSC.SmartCertify.Infrastructure\Gvn.SmartCertify.Infrastructure.csproj" />
+    <ProjectReference Include="..\Gvn.SmartCertify.Application\Gvn.SmartCertify.Application.csproj" />
+    <ProjectReference Include="..\Gvn.SmartCertify.Domain\Gvn.SmartCertify.Domain.csproj" />
+    <ProjectReference Include="..\Gvn.SmartCertify.Infrastructure\Gvn.SmartCertify.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
