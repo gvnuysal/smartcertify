@@ -1,8 +1,8 @@
-using LSC.SmartCertify.Infrastructure;
+using Gvn.SmartCertify.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 using Scalar.AspNetCore;
 
-namespace LSC.SmartCertify.API
+namespace Gvn.SmartCertify.API
 {
     public class Program
     {

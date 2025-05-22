@@ -1,4 +1,4 @@
-namespace LSC.SmartCertify.API
+namespace Gvn.SmartCertify.API
 {
     public class WeatherForecast
     {

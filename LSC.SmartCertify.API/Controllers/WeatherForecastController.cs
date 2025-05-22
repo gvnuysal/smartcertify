@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace LSC.SmartCertify.API.Controllers
+namespace Gvn.SmartCertify.API.Controllers
 {
     [ApiController]
     [Route("[controller]")]

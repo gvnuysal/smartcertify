@@ -1,7 +1,7 @@
-﻿using LSC.SmartCertify.Domain.Entities;
+﻿using Gvn.SmartCertify.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace LSC.SmartCertify.Infrastructure;
+namespace Gvn.SmartCertify.Infrastructure;
 
 public partial class SmartCertifyContext : DbContext
 {
